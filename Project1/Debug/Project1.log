@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\drakkonex\documents\visual studio 2015\projects\project1\project1\source.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\drakkonex\documents\visual studio 2015\projects\project1\project1\source.cpp(195): warning C4553: '==': operator has no effect; did you intend '='?
+  Project1.vcxproj -> C:\Users\Drakkonex\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Drakkonex\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
